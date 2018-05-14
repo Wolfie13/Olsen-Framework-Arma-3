@@ -1,4 +1,4 @@
-#include "core\gearCore.sqf" //DO NOT REMOVE
+#include "core\gearCore.sqf" 
 
 // Call this with [this, "LOADOUT", (optional) "GROUPNAME"] call FNC_GearScript; in the Init field of the unit
 // Example:

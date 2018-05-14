@@ -37,7 +37,7 @@ if (isServer) then {
 	"guer" call FNC_CreateRespawnMarker;
 	"civ" call FNC_CreateRespawnMarker;
 
-	FW_Teams = []; //DO NOT REMOVE
+	FW_Teams = []; 
 	FW_MissionEnded = false; //Mission has not ended
 
 	FW_EventPlayerSpawnedHandle = ["FW_PlayerSpawned", {_this call FNC_EventPlayerSpawned;}] call CBA_fnc_addEventHandler;

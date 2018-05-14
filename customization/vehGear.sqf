@@ -1,4 +1,4 @@
-#include "core\vehGearCore.sqf" //DO NOT REMOVE
+#include "core\vehGearCore.sqf" 
 
 // Call this with [this, "LOADOUT"] call FNC_VehicleGearScript; in the Init field of the vehile
 // Example:

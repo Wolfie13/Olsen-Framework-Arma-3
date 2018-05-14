@@ -1,4 +1,4 @@
-#include "core\briefingCore.sqf" //DO NOT REMOVE
+#include "core\briefingCore.sqf" 
 
 switch (side player) do { //Checks what team the player is on
 
